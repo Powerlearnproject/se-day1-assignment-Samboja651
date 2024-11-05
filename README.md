@@ -13,9 +13,16 @@ Identify and describe at least three key milestones in the evolution of software
 > - 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+>- Requirements gathering for the software.
+>- Design - create templates of UI for each feature requirement
+>- Implementation - develop/code software
+>- Testing - test if the software is bug free and meets user requirements.
+>- Deployment - release the product to users
+>- Maintenance - regularly run tests/upgrades ensuring code is bug free
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+> Waterfall model is not flexible, you cannot go back to previous phases while Agile model is flexible, you can iterate back and forward.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.

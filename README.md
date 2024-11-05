@@ -5,10 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+> is the application of technology in designing, developing, testing and maintaining systems. \
+> Importance: improve quality of life by technically solving real world problems.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+> - 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -20,9 +22,15 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+> IDE - is an editor for writing code, compiling or translating it to a machine language and displays the it's output. Eg. `vscode, pycharm, netbeans` \
+> VCS - `Git` keeps track of changes in code and enables code sharing or collaboration through `Github`, `Bitbucket` or `Gitlab`.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+>-  Bug tracking - knowing when a bug occurs, how and what caused it.
+> `sln - use unit test or CI/CD tools that report when this bugs occur`. 
+>- perfoming software upgrades without affecting user usage. `sln - choose cloud hosting over installed applications`. In cloud user doesn't have to take any action.
+>- Financial constraints - `sln - use open source tools and technologies`
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.

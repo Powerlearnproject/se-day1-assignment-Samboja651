@@ -5,15 +5,19 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-> is the application of technology in designing, developing, testing and maintaining systems. \
-> Importance: improve quality of life by technically solving real world problems.
-
+> **Software Engineering** is the application of technology in designing, developing, testing and maintaining software systems. 
+> 
+> **Importance**: Improve quality of life by technically solving real world problems. Eg. communication - How Can We communicate with people thousands of miles away? `sln` Internet, network systems and softwares like Facebook, Gmail and others have made it possible.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-> - 
+> - Emergence of first digital computer between 1940 and 1950.
+> - Error of programming - languages like C, Assembly were developed to communicate with computers.
+> - Establishment of software engineering as a discipline in 1960 would later create standard procedure of building softwares.
+> - Emergence of structured programming in 1970 and languages like C and Java.
+> - Rise of Agile Methodologies from year 2000
 
 List and briefly explain the phases of the Software Development Life Cycle.
->- Requirements gathering for the software.
+>- Requirement gathering for the software.
 >- Design - create templates of UI for each feature requirement
 >- Implementation - develop/code software
 >- Testing - test if the software is bug free and meets user requirements.
@@ -22,7 +26,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-> Waterfall model is not flexible, you cannot go back to previous phases while Agile model is flexible, you can iterate back and forward.
+> Waterfall model is not flexible, you cannot go back to previous phases while Agile model is flexible, you can iterate back and forward. \
+> Agile model can be used in teams to work on different taskflows.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -55,6 +60,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+> **Prompt Engineering** is an iterative science of giving queries to an AI system, analyzing the response, grading its accuracy, relevance and giving it feed back so as to improve its response.
+> **Importance** Knowing how to craft good prompts will result in getting response that you want. As the saying goes `garbage in garbage out and bad prompt equals bad result`
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.

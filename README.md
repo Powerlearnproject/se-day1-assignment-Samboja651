@@ -58,3 +58,8 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+> **Vague Prompt**  `How do I donwnload a browser for my computer?`
+> 
+> **Good Prompt** `How do I download and install google chrome browser on my laptop running ubuntu 22.04 OS`
+>
+> The good prompt is better because it clearly states what I want to do, specifies the browser type and operating system my laptop uses. This way, AI will give a response with intrustions for installing chrome on a linux system.
